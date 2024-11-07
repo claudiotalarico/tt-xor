@@ -13,13 +13,15 @@ Basic xor gate
 
 ## How to test
 
-A B    Y <br>
---------- <br>
-0 0    0  <br>
-0 1    1  <br>
-1 0    1  <br>
-1 1    0  <br>
+```
+A B    Y 
+--------- 
+0 0    0  
+0 1    1 
+1 0    1 
+1 1    0 
+```
 ## External hardware
 
-switch
+switch <br>
 LED
