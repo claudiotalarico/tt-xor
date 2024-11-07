@@ -9,7 +9,7 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Basic cmos xor gate
+Basic xor gate
 
 ## How to test
 
