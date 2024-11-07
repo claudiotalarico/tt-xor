@@ -9,12 +9,17 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+Basic xor gate
 
 ## How to test
 
-Explain how to use your project
-
+A B    Y
+---------
+0 0    0
+0 1    1
+1 0    1
+1 1    0
 ## External hardware
 
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any
+switch
+LED
