@@ -14,12 +14,12 @@ Basic cmos xor gate
 ## How to test
 
 ```
-A B    Y 
---------- 
-0 0    0  
-0 1    1 
-1 0    1 
-1 1    0 
+IN0 IN1    OUT0 
+--------------- 
+ 0   0      0  
+ 0   1      1 
+ 1   0      1 
+ 1   1      0 
 ```
 ## External hardware
 
