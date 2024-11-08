@@ -9,7 +9,8 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Basic xor gate
+XOR gate with output registered by a FF.
+The FF has active high Set and Reset. The Set is unused (stuck at GND).
 
 ## How to test
 
@@ -23,5 +24,6 @@ IN0 IN1    OUT0
 ```
 ## External hardware
 
-switch <br>
+push button (for Reset)
+DIP switch 8
 LED
