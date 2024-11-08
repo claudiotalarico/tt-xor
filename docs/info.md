@@ -24,6 +24,6 @@ IN0 IN1    OUT0
 ```
 ## External hardware
 
-push button (for Reset)
-DIP switch 8
-LED
+push button (for Reset) <br>
+DIP switch 8 <br>
+LED <br>
